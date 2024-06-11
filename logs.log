@@ -1,0 +1,8 @@
+2024-06-12 00:06:15,936 - INFO - Flask server started
+2024-06-12 00:06:15,952 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-12 00:06:15,952 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-12 00:06:17,846 - INFO - ========== Open home page ============
+2024-06-12 00:06:17,878 - INFO - 127.0.0.1 - - [12/Jun/2024 00:06:17] "GET / HTTP/1.1" 200 -
+2024-06-12 00:06:18,011 - INFO - 127.0.0.1 - - [12/Jun/2024 00:06:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2024-06-12 00:06:18,026 - INFO - 127.0.0.1 - - [12/Jun/2024 00:06:18] "[36mGET /static/products/prod1.jpg HTTP/1.1[0m" 304 -
